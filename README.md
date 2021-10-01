@@ -3,3 +3,7 @@
 # Rules
 1) Add Any Unique Code
 
+// C++ Program to calculate the maximum of two numbers
+
+void returnMax(int x, int y){
+    return ( a > b ) ? a: b;
