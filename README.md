@@ -3,6 +3,7 @@
 # Rules
 1) Add Any Unique Code
 
+# For Example
 // C++ Program to calculate the maximum of two numbers
 
 void returnMax(int x, int y){
