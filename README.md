@@ -7,7 +7,7 @@
 
 
 
-# For example 
+# You can pull request like
 
 // C++ Program to calculate the maximum of two numbers
 
