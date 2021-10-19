@@ -1,6 +1,9 @@
 ![download (3)](https://user-images.githubusercontent.com/40620392/136378683-2b793937-9672-44c9-b0c5-914cc0e7ddf3.jpeg)
 
 # It’s that time of year again when we come together to support and celebrate the open source technologies we use and love.
+
+# Helping Students World Wide to start there journey in the ocean 🌊 of open source ♥️
+
 # Rules
 1) Add Any Unique Code
 2) You can use any Programming language
