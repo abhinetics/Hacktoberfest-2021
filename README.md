@@ -8,8 +8,15 @@
 
 
 
-# You can pull request like
+# HOW TO PULL REQUEST FOR HACKTOBERFEST?
+-You can fork or you can add directly
+- Click Add file (It will be on top)
+- Click create new file
+- Add the name of the file and write down your code
+- Commit changes and pull request!!
 
+
+# New file code example 👇
 // C++ Program to calculate the maximum of two numbers
 
 void returnMax(int x, int y){
