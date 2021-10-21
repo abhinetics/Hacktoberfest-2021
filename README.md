@@ -31,9 +31,7 @@ void returnMax(int x, int y){
 
 # Contributers List 🏆
 <a href="https://github.com/abhijeetkumarsinghofficial/Hacktoberfest-2021/graphs/contributors">
-
   <img src="https://contrib.rocks/image?repo=abhijeetkumarsinghofficial/Hacktoberfest-2021" />
-
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
