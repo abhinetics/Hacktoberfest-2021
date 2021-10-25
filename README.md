@@ -34,4 +34,4 @@ void returnMax(int x, int y){
   <img src="https://contrib.rocks/image?repo=abhijeetkumarsinghofficial/Hacktoberfest-2021" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
