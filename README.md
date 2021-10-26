@@ -12,7 +12,7 @@
 
 
 # HOW TO PULL REQUEST FOR HACKTOBERFEST?
--You can fork or you can add directly
+- You can fork or you can add directly
 - Click Add file (It will be on top)
 - Click create new file
 - Add the name of the file and write down your code
@@ -27,11 +27,12 @@ void returnMax(int x, int y){
 # Make a new file and add your any working code
 # Wrong Codes will be marked as spam
 -Best of luck ✌️
-# Don't forget to give ⭐ ( To give star you can see on your screen on top right hand side Just smash it 💥 )
+# Don't forget to give ⭐ ( To give star you can see on your screen on top right hand side Just smash it 💥 :)
 
-# Contributers List 🏆
+# Contributers List  🏆
 <a href="https://github.com/abhijeetkumarsinghofficial/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=abhijeetkumarsinghofficial/Hacktoberfest-2021" />
 </a>
+
 
 Made with [contrib.rocks](https://contrib.rocks).
