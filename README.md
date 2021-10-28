@@ -20,10 +20,12 @@
 
 
 # New file code example 👇
+
 // C++ Program to calculate the maximum of two numbers
 
 void returnMax(int x, int y){
     return ( a > b ) ? a: b;
+    
 # Make a new file and add your any working code
 # Wrong Codes will be marked as spam
 -Best of luck ✌️
