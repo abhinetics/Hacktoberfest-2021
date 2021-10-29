@@ -5,5 +5,6 @@ int main(){
   cin >> a;
   cin >> b;
   sum = a + b;
-  cout << sum << endl;
+  cout << sum << endl<<"\n";
+  return 0;
 }
