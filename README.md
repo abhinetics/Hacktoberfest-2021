@@ -14,7 +14,6 @@
 
 
 
-
 # HOW TO PULL REQUEST FOR HACKTOBERFEST?
 - You can fork or you can add directly
 - Click Add file (It will be on top)
